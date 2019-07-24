@@ -9,7 +9,7 @@ guiScale:2
 particles:1
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:80
 fboEnable:true
 difficulty:0
 fancyGraphics:false
@@ -27,7 +27,7 @@ chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
 enableVsync:false
-useVbo:true
+useVbo:false
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
@@ -43,7 +43,7 @@ mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:true
+entityShadows:false
 mainHand:right
 attackIndicator:1
 showSubtitles:false
